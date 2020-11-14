@@ -1,0 +1,7 @@
+name = "Orbits"
+uuid = "04a86f23-1e79-40d8-8164-9333f103eff2"
+authors = ["nbernard3 <nicolas.bernard3@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
