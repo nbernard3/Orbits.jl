@@ -1,4 +1,4 @@
 using Test
-using Orbits
+using SpacecraftDynamics
 
 @test true
